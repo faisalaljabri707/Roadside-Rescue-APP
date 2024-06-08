@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1060675050078",
+    "project_id": "roadside-rescue-final",
+    "storage_bucket": "roadside-rescue-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060675050078:android:76d9253445e038b12db2cf",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBloTGW4rKJ8nnqmXdMQyP0BcWFui1q9rY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
